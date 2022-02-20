@@ -1,5 +1,6 @@
 ### Hi there 👋
 🤔 I’m looking for help with ...
+😄 Pronouns: ...
 <!--
 **Trirat2543/Trirat2543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
